@@ -1,0 +1,47 @@
+body{
+    padding-left: 600px;
+    padding-top: 50px;
+    position: relative;
+}
+.input{
+    height: 50px;
+    width: 300px;
+    padding-left: 20px;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.row1{
+    padding-top: 30px;
+    padding-left: 35px;
+}
+.container{
+    width: 400px;
+    height: 500px;
+    align-items: center;
+    background-color: black;
+    border: 3px rgb(240, 43, 8) solid;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+}
+.main{
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.button{
+    background-color: rgb(229, 83, 15);
+    padding: 30px;
+    margin:0 3px;
+    border: 2px solid white;
+    border-radius: 9px;
+    cursor: pointer;
+    color: black;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.row{
+    margin: 8px 0;
+}
